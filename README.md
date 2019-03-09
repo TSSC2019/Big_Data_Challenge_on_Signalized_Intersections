@@ -30,7 +30,7 @@ Last Date to Signup: April 15, 2019
 
 Date for Final Submission: May 15, 2019
 
-Results based on Final Submission - May 31, 2019
+Results based on Final Submission: May 31, 2019
 
 
 ## FAQs
