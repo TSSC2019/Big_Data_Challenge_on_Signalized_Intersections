@@ -5,7 +5,7 @@
    Traffic signals are intended to allow safe and efficient passage of road users in accordance with the spatial and temporal patterns of traffic demand at the site. However, recently they have become the main source of congestion for US. Each driver in the US ends up spending 42 hours a year per rush-hour commuter. Also 19% of the crashes occur at a signalized intersection only. To make matters worse, these signals are still predominantly being managed on basis of citizen complaints. With the advent of big data analytics into transportation engineering and availability of large volume of data at signalized intersections, these problems can be mitigated in an easier way.
    
 ## Tasks   
-   Participants will be provided with a dataset consisting of 'n' signalized intersections along 'y' corridors for the State of Utah, United States of America. The entire description of the dataset is provided in the **dataset** section below. 
+   Participants will be provided with a dataset consisting of 1996 signalized intersections for the State of Utah, United States of America. The entire description of the dataset is provided in the **dataset** section below. 
    The main task of this challenge two fold:
    1. Develop an algorithm to assist the decision making of the Utah Department of Transportation. This can involve performance measures or any relevant work to improve the behavior of the intersections and corridors. It should also describe the feasibility of implementation and the computational power needed to implement in real time.
    2. Develop a visualization tool for describing step 1.
@@ -18,7 +18,7 @@
 An internal committee will judge the first round of submissions and come up with the top 5. Participants of these teams will be notified. Further a final committee will select the top 3 teams from these 5 teams.
    
 ## Rules
-Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available [here](https://github.com/TSSC2019/TSSC2019/blob/master/DataLicenseAgreement_TSSCChallenge2019.pdf), which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
+The TSSC Challenge 2019 is open to any community across the globe. Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available [here](https://github.com/TSSC2019/TSSC2019/blob/master/DataLicenseAgreement_TSSCChallenge2019.pdf), which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
 ## Dataset
    The dataset is available in the <box links> provided. Metadata details will be attached alongwith.
 
@@ -46,3 +46,4 @@ Results based on Final Submission: May 31, 2019
 3. Who will be the judge?
 
     Judgement will be done by a group of academic and professional panel in the field of transportation.
+
