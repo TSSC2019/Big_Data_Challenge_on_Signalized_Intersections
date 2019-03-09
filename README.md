@@ -43,7 +43,3 @@ Results based on Final Submission: May 31, 2019
 
    There is no limitation to the number of members in the team. however, one member can participate in one team only.
    
-3. Who will be the judge?
-
-    Judgement will be done by a group of academic and professional panel in the field of transportation.
-
