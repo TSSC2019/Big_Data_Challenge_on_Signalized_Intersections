@@ -37,7 +37,7 @@ Results based on Final Submission - May 31, 2019
 ## FAQs
 1. How can I register for the participation?
 
-   Fill up the form using the link https://goo.gl/forms/c9tOyqq2lLtxuHxC3. Make sure that you have a git repository where you will make    all your submissions.
+   Fill up the form using the link https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Make sure that you have a git repository where you will make    all your submissions.
    
    
 2. How many people can participate in a team?
