@@ -18,8 +18,7 @@
 An internal committee will judge the first round of submissions and come up with the top 5. Participants of these teams will be notified. Further a final committee will select the top 3 teams from these 5 teams.
    
 ## Rules
-Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. 
-
+Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available here, which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
 ## Dataset
    The dataset is available in the <box links> provided. Metadata details will be attached alongwith.
 
@@ -37,7 +36,7 @@ Results based on Final Submission - May 31, 2019
 ## FAQs
 1. How can I register for the participation?
 
-   Fill up the form using the link https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Make sure that you have a git repository where you will make    all your submissions.
+   Fill up the form using the link https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Make sure that you have a git repository where you will make all your submissions.
    
    
 2. How many people can participate in a team?
