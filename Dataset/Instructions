@@ -1,7 +1,7 @@
-#Dataset Instructions
+Dataset Instructions
 The dataset consists of high-resolution traffic signal data along two arterial corridors on the Salt Lake City, Utah, USA. These are:
-- Corridor 1, named 300 W (US-89) consists of 10 signalized intersections
-- Corridor 2, named 700 E consists of 12 signalized intersections.
+ - Corridor 1, named 300 W (US-89) consists of 10 signalized intersections
+ - Corridor 2, named 700 E consists of 12 signalized intersections.
 Data is provided on a intersection level at a frequency of of 0.1 second for the entire year of 2018. 
 The header of the files is: Signal ID, Datetime, Event Code, Event Parameter.
 The coding of the event codes and parameters can be found at the following link: https://udottraffic.utah.gov/ATSPM/Images/NEMA%20Phase%20%23%20Convention%20UDOT.pdf
