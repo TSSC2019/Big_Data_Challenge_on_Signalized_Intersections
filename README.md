@@ -5,7 +5,7 @@
    Traffic signals are intended to allow safe and efficient passage of road users in accordance with the spatial and temporal patterns of traffic demand at the site. However, recently they have become the main source of congestion for US. Each driver in the US ends up spending 42 hours a year per rush-hour commuter. Also 19% of the crashes occur at a signalized intersection only. To make matters worse, these signals are still predominantly being managed on basis of citizen complaints. With the advent of big data analytics into transportation engineering and availability of large volume of data at signalized intersections, these problems can be mitigated in an easier way.
    
 ## Tasks   
-   Participants will be provided with a dataset consisting of n signalized intersections for the State of Utah, United States of America. The entire description of the dataset is provided in the **dataset** section below. 
+   Participants will be provided with a dataset consisting of 22 signalized intersections along 2 arterial corridors on the Salt Lake City, Utah, United States of America. The entire description of the dataset is provided in the **dataset** section below. 
    The main task of this challenge two fold:
    1. Develop an algorithm to assist the decision making of the Utah Department of Transportation. This can involve performance measures or any relevant work to improve the behavior of the intersections and corridors. It should also describe the feasibility of implementation and the computational power needed to implement in real time.
    2. Develop a visualization tool for describing step 1.
@@ -24,9 +24,9 @@ The TSSC Challenge 2019 is open to any community across the globe. Participation
 
 ## Deadlines 
 
-Signup Begins: March 15, 2019
+Signup Begins: March 18, 2019
 
-Last Date to Signup: April 15, 2019
+Last Date to Signup: April 18, 2019
 
 Date for Final Submission: May 15, 2019
 
