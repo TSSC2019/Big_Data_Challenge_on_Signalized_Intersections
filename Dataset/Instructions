@@ -4,4 +4,6 @@ The dataset consists of high-resolution traffic signal data along two arterial c
  - Corridor 2, named 700 E consists of 12 signalized intersections.
 Data is provided on a intersection level at a frequency of of 0.1 second for the entire year of 2018. 
 The header of the files is: Signal ID, Datetime, Event Code, Event Parameter.
-The coding of the event codes and parameters can be found at the following link: https://udottraffic.utah.gov/ATSPM/Images/NEMA%20Phase%20%23%20Convention%20UDOT.pdf
+The coding of the event codes and parameters can be found at the following link: https://docs.lib.purdue.edu/jtrpdata/3/
+The NEMA phasin scheme for each of the intersection can be found in the following link:https://udottraffic.utah.gov/ATSPM/Images/NEMA%20Phase%20%23%20Convention%20UDOT.pdf
+The locations of the intersections can also be found alongwith the dataset provided.
