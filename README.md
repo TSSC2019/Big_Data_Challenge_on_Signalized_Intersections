@@ -16,7 +16,7 @@
    3. Final comments and conclusion (30%)
    
 An internal committee will judge the first round of submissions and come up with the top 5. Participants of these teams will be notified. Further a final committee will select the top 3 teams from these 5 teams.
-The winners of the competition will be invited in the mid-year TSSC Meeting 2019.
+The winners of the competition will be invited in the mid-year TSSC Meeting at Woods Hole, Falmouth, MA suring August 6-8, 2019.
    
 ## Rules
 The TSSC Challenge 2019 is open to any community across the globe. Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available [here](https://github.com/TSSC2019/TSSC2019/blob/master/DataLicenseAgreement_TSSCChallenge2019.pdf), which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
