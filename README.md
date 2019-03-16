@@ -5,7 +5,7 @@
    Traffic signals are intended to allow safe and efficient passage of road users in accordance with the spatial and temporal patterns of traffic demand at the site. However, recently they have become the main source of congestion for US. Each driver in the US ends up spending 42 hours a year per rush-hour commuter. Also 19% of the crashes occur at a signalized intersection only. To make matters worse, these signals are still predominantly being managed on basis of citizen complaints. With the advent of big data analytics into transportation engineering and availability of large volume of data at signalized intersections, these problems can be mitigated in an easier way.
    
 ## Tasks   
-   Participants will be provided with a dataset consisting of 22 signalized intersections along 2 arterial corridors on the Salt Lake City, Utah, United States of America. The entire description of the dataset is provided in the **dataset** section below. 
+   Participants will be provided with a dataset consisting of 22 signalized intersections along 2 arterial corridors on the Salt Lake City, Utah, United States of America. The entire description of the dataset is provided in the **Dataset** section below. 
    The main task of this challenge two fold:
    1. Develop an algorithm to assist the decision making of the Utah Department of Transportation. This can involve performance measures or any relevant work to improve the behavior of the intersections and corridors. It should also describe the feasibility of implementation and the computational power needed to implement in real time.
    2. Develop a visualization tool for describing step 1.
@@ -21,7 +21,7 @@ The winners of the competition will be invited in the mid-year TSSC Meeting at W
 ## Rules
 The TSSC Challenge 2019 is open to any community across the globe. Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available [here](https://github.com/TSSC2019/TSSC2019/blob/master/DataLicenseAgreement_TSSCChallenge2019.pdf), which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
 ## Dataset
-   The dataset is available in the <box links> provided. Metadata details will be attached alongwith.
+   The dataset is available in the <box links> provided. The details of the dataset can be found under the dataset folder. All the metadata and the links are given in that section.
 
 ## Deadlines 
 
