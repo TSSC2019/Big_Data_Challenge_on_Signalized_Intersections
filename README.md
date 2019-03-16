@@ -21,7 +21,7 @@ The winners of the competition will be invited in the mid-year TSSC Meeting at W
 ## Rules
 The TSSC Challenge 2019 is open to any community across the globe. Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available [here](https://github.com/TSSC2019/TSSC2019/blob/master/DataLicenseAgreement_TSSCChallenge2019.pdf), which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
 ## Dataset
-   The dataset is available in the <box links> provided. The details of the dataset can be found under the dataset folder. All the metadata and the links are given in that section.
+   The dataset is available in the <box links> provided. The details of the dataset can be found under the **Dataset** folder. All the metadata and the links are given in that section.
 
 ## Deadlines 
 
