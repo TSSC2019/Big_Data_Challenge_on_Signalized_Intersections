@@ -9,13 +9,13 @@
    1. Develop an algorithm to assist the decision making of the Utah Department of Transportation. This can involve performance measures or any relevant work to improve the behavior of the intersections and corridors. It should also describe the feasibility of implementation and the computational power needed to implement in real time.
    2. Develop a visualization tool for describing step 1.
    
-   Finally submission should include a report of no more than 7,500 which describes the methodology, visualization, and final comments about the insights gained from the study. The format should as per the Transportation Research Board (TRB) submission. Submission should be made on github pages of the participants only. The final judgement will be made on the basis of:
+   Finally submission should include a report of no more than 7,500 which describes the methodology, visualization, and final comments about the insights gained from the study. The format should as per the Transportation Research Board (TRB) submission. Submission should be made on github pages of the participants only. The final judgement will be made based on:
    1. Methodology (50%)
    2. Data Visualization (20%)
    3. Final comments and conclusion (30%)
    
 An internal committee will judge the first round of submissions and come up with the top 5. Participants of these teams will be notified. Further a final committee will select the top 3 teams from these 5 teams.
-The winners of the competition will be invited in the mid-year TSSC Meeting at Woods Hole, Falmouth, MA suring August 6-8, 2019.
+The winners of the competition will be invited in the mid-year TSSC Meeting at Woods Hole, Falmouth, MA during August 6-8, 2019.
    
 ## Rules
 The TSSC Challenge 2019 is open to any community across the globe. Participation can be done individually or in groups. There should a leader for each group who should provide with the details about the github repository where they will make the submission. No member should be a part of more than one team. Registration can be done using the link: https://docs.google.com/forms/d/e/1FAIpQLSeclY-pw3JVzICY5WZ_mkKwvThErlen8gR1_J1aOnmLwC9QbQ/viewform?usp=sf_link. Please make sure to read the Data License Agreement Form available [here](https://github.com/TSSC2019/TSSC2019/blob/master/DataLicenseAgreement_TSSCChallenge2019.pdf), which states the terms and conditions under which you will receive access to the data sets. Please note that by filling up the Google Doc, you agree to abide by the terms and conditions of the agreement. 
