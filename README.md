@@ -1,5 +1,4 @@
-# TSSC_Competition_2019
-
+# Big Data Challenge on Signalized Intersections
 ## Introduction
 
    Traffic signals are intended to allow safe and efficient passage of road users in accordance with the spatial and temporal patterns of traffic demand at the site. However, recently they have become the main source of congestion for US. Each driver in the US ends up spending 42 hours a year per rush-hour commuter. Also 19% of the crashes occur at a signalized intersection only. To make matters worse, these signals are still predominantly being managed on basis of citizen complaints. With the advent of big data analytics into transportation engineering and availability of large volume of data at signalized intersections, these problems can be mitigated in an easier way.
