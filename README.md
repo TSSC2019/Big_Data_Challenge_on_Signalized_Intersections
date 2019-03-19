@@ -46,3 +46,14 @@ Results based on Final Submission: May 31, 2019
 3. When do I get access to the dataset?
 
    Once you fill up the registration form, expect to receive the link to the dataset within 24-48 hours.
+   
+## Participating Teams/Organizations
+
+1. Case Western Reserve University
+2. Independent Research 
+3. NCSU 
+4. Old Dominion University 
+5. Polytechnique Montreal
+6. Texas A&M Transportation Institute
+7. University of Central Florida
+8. University of Wisconsin Milwaukee
