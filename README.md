@@ -43,3 +43,6 @@ Results based on Final Submission: May 31, 2019
 
    There is no limitation to the number of members in the team. however, one member can participate in one team only.
    
+3. When do I get access to the dataset?
+
+   Once you fill up the registration form, expect to receive the link to the dataset within 24-48 hours.
