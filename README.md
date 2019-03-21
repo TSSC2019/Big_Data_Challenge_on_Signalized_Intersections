@@ -50,10 +50,12 @@ Results based on Final Submission: May 31, 2019
 ## Participating Teams/Organizations
 
 1. Case Western Reserve University
-2. Independent Research 
-3. NCSU 
-4. Old Dominion University 
-5. Polytechnique Montreal
-6. Texas A&M Transportation Institute
-7. University of Central Florida
-8. University of Wisconsin Milwaukee
+2. Ford Motor Company
+3. Independent Research 
+4. NCSU 
+5. Old Dominion University 
+6. Polytechnique Montreal
+7. Texas A&M Transportation Institute
+8. University of Central Florida
+9. University of Missouri - Columbia
+10. University of Wisconsin Milwaukee
