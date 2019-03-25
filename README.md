@@ -59,3 +59,5 @@ Results based on Final Submission: May 31, 2019
 8. University of Central Florida
 9. University of Missouri - Columbia
 10. University of Wisconsin Milwaukee
+11. University of South Carolina
+
