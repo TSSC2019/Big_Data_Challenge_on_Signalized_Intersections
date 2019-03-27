@@ -60,5 +60,5 @@ Results based on Final Submission: May 31, 2019
 9. University of Central Florida
 10. University of Missouri - Columbia 
 11. University of Wisconsin Milwaukee
-12. University of South Carolina
+12. University of South Carolina and The Hong Kong Institute of Science and Technology
 
