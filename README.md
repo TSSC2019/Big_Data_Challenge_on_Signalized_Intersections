@@ -51,8 +51,8 @@ Results based on Final Submission: May 31, 2019
 
 1. Case Western Reserve University
 2. Ford Motor Company
-3. Independent Research 
-4. Iowa State University
+3. Independent Research/ Private Consultancy (2)
+4. Iowa State University (2)
 5. NCSU
 6. Old Dominion University  
 7. Polytechnique Montreal 
