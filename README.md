@@ -52,13 +52,14 @@ Results based on Final Submission: May 31, 2019
 1. Case Western Reserve University
 2. Ford Motor Company
 3. Independent Research/ Private Consultancy (2)
-4. Iowa State University (2)
+4. Iowa State University (3)
 5. NCSU
-6. Old Dominion University  
-7. Polytechnique Montreal 
-8. Texas A&M Transportation Institute 
-9. University of Central Florida
-10. University of Missouri - Columbia 
-11. University of Wisconsin Milwaukee
-12. University of South Carolina and The Hong Kong Institute of Science and Technology
+6. NVIDIA
+7. Old Dominion University  
+8. Polytechnique Montreal 
+9. Texas A&M Transportation Institute 
+10. University of Central Florida
+11. University of Missouri - Columbia 
+12. University of Wisconsin Milwaukee
+13. University of South Carolina and The Hong Kong Institute of Science and Technology
 
