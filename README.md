@@ -57,9 +57,10 @@ Results based on Final Submission: May 31, 2019
 6. NVIDIA
 7. Old Dominion University  
 8. Polytechnique Montreal 
-9. Texas A&M Transportation Institute 
-10. University of Central Florida
-11. University of Missouri - Columbia 
-12. University of Wisconsin Milwaukee
-13. University of South Carolina and The Hong Kong Institute of Science and Technology
+9. Ryerson University
+10. Texas A&M Transportation Institute 
+11. University of Central Florida
+12. University of Missouri - Columbia 
+13. University of Wisconsin Milwaukee
+14. University of South Carolina and The Hong Kong Institute of Science and Technology
 
