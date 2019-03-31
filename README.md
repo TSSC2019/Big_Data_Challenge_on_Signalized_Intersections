@@ -50,17 +50,19 @@ Results based on Final Submission: May 31, 2019
 ## Participating Teams/Organizations
 
 1. Case Western Reserve University
-2. Ford Motor Company
-3. Independent Research/ Private Consultancy (2)
-4. Iowa State University (3)
-5. NCSU
-6. NVIDIA
-7. Old Dominion University  
-8. Polytechnique Montreal 
-9. Ryerson University
-10. Texas A&M Transportation Institute 
-11. University of Central Florida
-12. University of Missouri - Columbia 
-13. University of Wisconsin Milwaukee
-14. University of South Carolina and The Hong Kong Institute of Science and Technology
+2. Connetics Transportation Group
+3. Data10000
+4. Ford Motor Company 
+5. Independent Research/ Private Consultancy (2)
+7. Iowa State University (3)
+10. NCSU
+11. NVIDIA
+12. Old Dominion University  
+13. Polytechnique Montreal 
+14. Ryerson University
+15. Texas A&M Transportation Institute 
+16. University of Central Florida
+17. University of Missouri - Columbia 
+18. University of Wisconsin Milwaukee
+19. University of South Carolina and The Hong Kong Institute of Science and Technology
 
