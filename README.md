@@ -60,9 +60,10 @@ Results based on Final Submission: May 31, 2019
 12. Old Dominion University  
 13. Polytechnique Montreal 
 14. Ryerson University
-15. Texas A&M Transportation Institute 
-16. University of Central Florida
-17. University of Missouri - Columbia 
-18. University of Wisconsin Milwaukee
-19. University of South Carolina and The Hong Kong Institute of Science and Technology
+15. Southeast University
+16. Texas A&M Transportation Institute 
+17. University of Central Florida
+18. University of Missouri - Columbia 
+19. University of Wisconsin Milwaukee
+20. University of South Carolina and The Hong Kong Institute of Science and Technology
 
