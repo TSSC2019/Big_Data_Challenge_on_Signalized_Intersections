@@ -55,15 +55,16 @@ Results based on Final Submission: May 31, 2019
 4. Ford Motor Company 
 5. Independent Research/ Private Consultancy (2)
 7. Iowa State University (3)
-10. NCSU
-11. NVIDIA
-12. Old Dominion University  
-13. Polytechnique Montreal 
-14. Ryerson University
-15. Southeast University
-16. Texas A&M Transportation Institute 
-17. University of Central Florida
-18. University of Missouri - Columbia 
-19. University of Wisconsin Milwaukee
-20. University of South Carolina and The Hong Kong Institute of Science and Technology
+10. MG-Ice Corporation
+11. NCSU
+12. NVIDIA
+13. Old Dominion University  
+14. Polytechnique Montreal 
+15. Ryerson University
+16. Southeast University
+17. Texas A&M Transportation Institute 
+18. University of Central Florida
+19. University of Missouri - Columbia 
+20. University of Wisconsin Milwaukee
+21. University of South Carolina and The Hong Kong Institute of Science and Technology
 
