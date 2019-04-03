@@ -52,19 +52,20 @@ Results based on Final Submission: May 31, 2019
 1. Case Western Reserve University
 2. Connetics Transportation Group
 3. Data10000
-4. Ford Motor Company 
-5. Independent Research/ Private Consultancy (2)
-7. Iowa State University (3)
-10. MG-Ice Corporation
-11. NCSU
-12. NVIDIA
-13. Old Dominion University  
-14. Polytechnique Montreal 
-15. Ryerson University
-16. Southeast University
-17. Texas A&M Transportation Institute 
-18. University of Central Florida
-19. University of Missouri - Columbia 
-20. University of Wisconsin Milwaukee
-21. University of South Carolina and The Hong Kong Institute of Science and Technology
+4. EMC Insurance
+5. Ford Motor Company 
+6. Independent Research/ Private Consultancy (2)
+8. Iowa State University (3)
+12. MG-Ice Corporation
+12. NCSU
+13. NVIDIA
+14. Old Dominion University  
+15. Polytechnique Montreal 
+16. Ryerson University
+17. Southeast University
+18. Texas A&M Transportation Institute 
+19. University of Central Florida
+20. University of Missouri - Columbia 
+21. University of Wisconsin Milwaukee
+22. University of South Carolina and The Hong Kong Institute of Science and Technology
 
