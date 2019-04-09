@@ -67,7 +67,8 @@ Results based on Final Submission: May 31, 2019
 19. Southeast University
 20. Texas A&M Transportation Institute 
 21. University of Central Florida
-22. University of Missouri - Columbia 
-23. University of Wisconsin Milwaukee
-24. University of South Carolina and The Hong Kong Institute of Science and Technology
+22. University of Florida
+23. University of Missouri - Columbia 
+24. University of Wisconsin Milwaukee
+25. University of South Carolina and The Hong Kong Institute of Science and Technology
 
