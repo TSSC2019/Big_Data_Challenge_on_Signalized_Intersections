@@ -62,13 +62,14 @@ Results based on Final Submission: May 31, 2019
 14. NIT Patna
 15. NVIDIA
 16. Old Dominion University  
-17. Polytechnique Montreal 
-18. Ryerson University
-19. Southeast University
-20. Texas A&M Transportation Institute 
-21. University of Central Florida
-22. University of Florida
-23. University of Missouri - Columbia 
-24. University of Wisconsin Milwaukee
-25. University of South Carolina and The Hong Kong Institute of Science and Technology
+17. Penn State University
+18. Polytechnique Montreal 
+19. Ryerson University
+20. Southeast University
+21. Texas A&M Transportation Institute 
+22. University of Central Florida
+23. University of Florida
+24. University of Missouri - Columbia 
+25. University of Wisconsin Milwaukee
+26. University of South Carolina and The Hong Kong Institute of Science and Technology
 
