@@ -10,3 +10,17 @@ The details of the metadata can be found in the All Important tables.xlsx file a
 The coding of the event codes and event parameters can be found at the following link: https://docs.lib.purdue.edu/jtrpdata/3/
 The NEMA phasing scheme for each of the intersection can be found in the following link:https://udottraffic.utah.gov/ATSPM/Images/NEMA%20Phase%20%23%20Convention%20UDOT.pdf
 The locations of the intersections can also be found alongwith the dataset provided.
+
+Detailed information about detectors: 
+See the attachment "ATSPM Detection Suggestions". go to page 2. page 2 shows a typical layout of UDOT detection and how it is generally set up. 
+For example, if the Detection Hardware says (in "REPORTS" then "CONFIGURATION"): 
+* Advance Count Advanced Speed: it is a 10 foot detection zone with the upper end located at the distance specified in the setup (Dist. From Stop Bar).
+* Stop Bar Presence: This is generally a 65 foot zone that is located just a foot or two in front of the stop bar and extends back approximately 65 feet. 
+* Lane-by-lane Count: this is generally a very small zone (about 3 feet wide) that is located at the stop bar. It may be within a few feet of the stop bar on either side but most of the time, it is pretty much at the stop bar.
+* Lane-by-lane with Speed Restriction: this detection zone is the same size as the lane-by-lane count and is usually located at exactly the same location as the lane-by-lane count zone.
+
+In order to detect the lane ID number of the detectors, go to the ATSPM website at: https://udottraffic.utah.gov/atspm. 
+Then, go to: REPORTS - then CONFIGURATION. 
+Then, type in the signal id number you're looking for or select it from the map. 
+Scroll down until you see "Detectors". 
+The 2nd column will show the detector channel and the other columns will provide details on the movement, detector type, phase, etc.
